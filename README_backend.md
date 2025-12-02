@@ -25,3 +25,10 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
+
+## Estructura
+
+| backend | frontend | recursos |
+    ...        ...      ...
+| readme | readme | recursos |
+
