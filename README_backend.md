@@ -27,7 +27,6 @@ Requiere secrets:
 - DOCKERHUB_TOKEN
 
 
-
 | backend | frontend | recursos |
     ...        ...      ...
 | readme | readme | recursos |
