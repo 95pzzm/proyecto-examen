@@ -26,9 +26,12 @@ Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
 
-## Estructura
+## Estructura proyecto
 
 | backend | frontend | recursos |
     ...        ...      ...
 | readme | readme | recursos |
+
+
+
 
