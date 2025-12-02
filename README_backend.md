@@ -1,4 +1,4 @@
-# Backend del Proyecto – FastAPI
+# Backend del Proyecto – FastAPI de Pablo Garcia
 
 ## Instalación
 pip install -r requirements.txt
@@ -26,12 +26,9 @@ Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
 
-## Estructura proyecto
 
 | backend | frontend | recursos |
     ...        ...      ...
 | readme | readme | recursos |
-
-
 
 
