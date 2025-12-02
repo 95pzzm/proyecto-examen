@@ -1,4 +1,4 @@
-# Backend del Proyecto – FastAPI
+# Backend del Proyecto – FastAPI de Pablo Garcia
 
 ## Instalación
 pip install -r requirements.txt
@@ -25,5 +25,3 @@ Workflows ubicados en backend/.github/workflows/
 Requiere secrets:
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
-
-informacion impresa al final del readme 
